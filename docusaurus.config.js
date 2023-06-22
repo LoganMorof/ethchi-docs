@@ -14,7 +14,7 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ipfs/QmZ8TG8b6kLukLpRwvL9BwfbD1Mre4xbrhn5D8gdnHhSc3/',
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
