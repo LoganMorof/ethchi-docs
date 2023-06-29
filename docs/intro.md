@@ -11,7 +11,7 @@ Welcome to the ETHChicago Docs! Here you will find answers to common questions a
 ETHChicago is a community-run hackathon and conference focused on decentralized technology, particularly within the Ethereum ecosystem. Our aim is to catalyze innovation, foster collaboration, and promote education through real-world impact in blockchain technology.
 
 ### When and where will ETHChicago take place?
-ETHChicago will take place September 15-17th 2023 in Chicago, Illinois. For more specific details, please refer to the updates on our official website and social media platforms.
+ETHChicago will take place September 15-17th 2023 in Chicago, Illinois at The Metropolitan Club inside the Willis Tower.
 
 ### Who can attend ETHChicago?
 Anyone interested in decentralized technology is welcome, including developers, creatives, business leaders, students, and enthusiasts from all walks of life. Our community is diverse, inclusive, and open to all. 
