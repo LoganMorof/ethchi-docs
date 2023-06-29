@@ -20,7 +20,7 @@ sidebar_position: 2
 
 ### Smart Contract Development
 
-​[Hardhar](https://hardhat.org/hardhat-runner/docs/getting-started) - Ethereum development environment
+​[Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started) - Ethereum development environment
 
 ​[Remix](https://remix.ethereum.org/) - In-Browser IDE
 
