@@ -13,7 +13,7 @@ sidebar_position: 2
 ​[ETHGlobal Interactive Guides](https://ethglobal.com/guides)​ - curated list of useful tools, resources, and open-source projects that will help you get started with web3, by ETHGlobal
 
 ​[Ethereum.org's Getting Starting Page](https://ethereum.org/en/developers/learning-tools/) - list of basic guides to get started
-​
+
 [Ethereum.org's Developer Resources](https://ethereum.org/en/developers/)​ - Guides, IDEs, tools, libraries
 
 ## Tooling
