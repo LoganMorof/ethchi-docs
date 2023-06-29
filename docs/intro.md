@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Welcome to the ETHChicago Docs! Here you will find answers to common questions and directions on how to engage with our community further.
 
+These docs are meant to be a community resource, as such, they are open-source and we welcome your own additions via [github](https://github.com/ETHChicago/ethchi-docs) (pending our review).
+
 ## General
 ### What is ETHChicago?
 ETHChicago is a community-run hackathon and conference focused on decentralized technology, particularly within the Ethereum ecosystem. Our aim is to catalyze innovation, foster collaboration, and promote education through real-world impact in blockchain technology.
@@ -17,7 +19,7 @@ ETHChicago will take place September 15-17th 2023 in Chicago, Illinois at The Me
 Anyone interested in decentralized technology is welcome, including developers, creatives, business leaders, students, and enthusiasts from all walks of life. Our community is diverse, inclusive, and open to all. 
 
 ### How can I participate in ETHChicago?
-There are several ways you can participate in ETHChicago: as a volunteer, partner, speaker, mentor, or attendee. Our website is a great starting point but also feel free to checkout forum.ethchicago.xyz or contact us directly on Twitter or at ecosystem@ethchicago.xyz
+There are several ways you can participate in ETHChicago: as a volunteer, partner, speaker, mentor, or attendee. Our website is a great starting point but also feel free to checkout forum.ethchicago.xyz or contact us directly on [Twitter](https://twitter.com/0xEthChicago) & ecosystem@ethchicago.xyz
 
 ### Will there be bounties?
 Yes, there will be bounties for hackathon participants. Details will be announced closer to the event.
