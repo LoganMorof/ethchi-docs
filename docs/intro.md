@@ -17,7 +17,7 @@ ETHChicago will take place September 15-17th 2023 in Chicago, Illinois. For more
 Anyone interested in decentralized technology is welcome, including developers, creatives, business leaders, students, and enthusiasts from all walks of life. Our community is diverse, inclusive, and open to all. 
 
 ### How can I participate in ETHChicago?
-There are several ways you can participate in ETHChicago: as a volunteer, partner, speaker, mentor, or attendee. Detailed information on how to get involved in each role can be found in the Contributing section.
+There are several ways you can participate in ETHChicago: as a volunteer, partner, speaker, mentor, or attendee. Our website is a great starting point but also feel free to checkout forum.ethchicago.xyz or contact us directly on Twitter or at ecosystem@ethchicago.xyz
 
 ### Will there be bounties?
 Yes, there will be bounties for hackathon participants. Details will be announced closer to the event.
