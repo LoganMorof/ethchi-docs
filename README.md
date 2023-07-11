@@ -1,11 +1,11 @@
 # ETHChicago Docs
 
-# About 
+## About 
 
 This project was created to be the focal point for information about ETHChicago. 
 Contributions are welcomed!
 
-# Contributing 
+## Contributing 
 
 This project was created with Docusaurus. 
 
