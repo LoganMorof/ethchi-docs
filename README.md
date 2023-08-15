@@ -1,42 +1,24 @@
-# Website
+# ETHChicago Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## About 
 
-### Installation
+This project was created to be the focal point for information about ETHChicago. 
+Contributions are welcomed!
 
-```
-$ yarn
-```
+## Contributing 
 
-### Local Development
+This project was created with Docusaurus. 
 
-```
-$ yarn start
-```
+Each Docs page is a markdown file, and located in the docs/ directory.
+To create a new page, create a new markdown file. More information about 
+how to use Docusaurus can be found at: https://docusaurus.io/docs/create-doc
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+1. Clone this directory
 
-### Build
+`git clone https://github.com/ETHChicago/ethchi-docs.git`
 
-```
-$ yarn build
-```
+2. Create a new branch like: NAME_FIX_1 
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+`git checkout -b NAME_FIX_1`
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-# ethchi-docs
+3. Create a pull request to the main branch, from the new branch you created. 
