@@ -1,14 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Hacker Resources
+# Builder General Resources
 
 ## General Resources
-
-​[Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) - where it all started
-
-​[Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) - formal definition of the Ethereum protocol
 
 ​[ETHGlobal Interactive Guides](https://ethglobal.com/guides)​ - curated list of useful tools, resources, and open-source projects that will help you get started with web3, by ETHGlobal
 
@@ -16,7 +12,7 @@ sidebar_position: 2
 
 [Ethereum.org's Developer Resources](https://ethereum.org/en/developers/)​ - Guides, IDEs, tools, libraries
 
-## Tooling
+## General Tooling
 
 ### Smart Contract Development
 
@@ -25,8 +21,6 @@ sidebar_position: 2
 ​[Remix](https://remix.ethereum.org/) - In-Browser IDE
 
 ​[Foundry](https://book.getfoundry.sh/) - Smart Contract development toolchain
-
-[Alchemy Faucet](https://sepoliafaucet.com/)​ - Testnet Sepolia and Goerli ETH, as well as Mumbai Matic powered by Alchemy
 
 ### Web3 Client Libraries
 
@@ -38,5 +32,3 @@ The following libraries can be used by a frontend or backend service to interact
 
 [web3.py](https://web3py.readthedocs.io/en/stable/)
 ​
-## Onboarding
-[SpeedRunEthereum](https://speedrunethereum.com/)​ - Learn how to build on Ethereum; the superpowers and the gotchas
