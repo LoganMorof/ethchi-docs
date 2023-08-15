@@ -19,7 +19,7 @@ sidebar_position: 5
 
 ### Michigan Blockchain - Building Michigan leaders in the blockchain space
 
-- [linktr.ee](linktr.ee/UMichBlockchain)
+- [linktr.ee](https://linktr.ee/UMichBlockchain)
 - [website](https://www.michiganblockchain.org/)
 - [x](https://twitter.com/UMichBlockchain?s=20)
 
