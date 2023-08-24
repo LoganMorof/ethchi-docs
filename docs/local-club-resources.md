@@ -23,6 +23,11 @@ sidebar_position: 5
 - [website](https://www.michiganblockchain.org/)
 - [x](https://twitter.com/UMichBlockchain?s=20)
 
+### Spartan Blockchain Solutions - Connecting Michigan State Students to the blockchain community
+
+- [website](https://www.spartanblockchain.org/)
+- [x](https://twitter.com/msu_blockchain?s=20)
+
 ### ChicagoDAO.eth - Unifying the blockchain community at UChicago.
 
 - [website](https://chicagodao.io/)
